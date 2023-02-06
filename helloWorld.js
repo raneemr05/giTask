@@ -1,1 +1,2 @@
-alert("Git is Awesome!");
+let input = prompt("Enter your name");
+alert(input);
